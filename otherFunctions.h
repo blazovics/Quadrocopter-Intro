@@ -1,7 +1,7 @@
 #ifndef otherFunctions_h
 #define otherFunctions_h
 #undef X
-#define A 3.0
+#define A 2.0
 #define B A
 #define X (A+B)
 #define SPACE ""
