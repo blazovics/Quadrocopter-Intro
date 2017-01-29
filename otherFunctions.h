@@ -9,7 +9,7 @@
 
 void power(double* number)
 {
-    *number = *number;
+    *number *= *number;
 }
 
 #endif
