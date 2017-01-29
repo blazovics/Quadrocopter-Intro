@@ -1,4 +1,4 @@
-extern int powerlevel;
+int powerlevel;
 
 int powerLevel()
 {

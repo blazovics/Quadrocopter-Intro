@@ -7,6 +7,6 @@
 
 #define Power() (X)
 
-extern int powerLevel();
+int powerLevel();
 
 #endif
